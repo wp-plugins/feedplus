@@ -38,6 +38,9 @@ Antwort:         Dann wird man im Plugin Ordner deiner WP Installation auf die U
 Frage:        Was muss ich tun, wenn ich ein Bug bemerke?
 Antwort:         Man schickt dem Entwickler eine eMail an plugins@annu.biz und meldet den Bug und wie man ihn nachvollziehen kann.
 
+Frage:        Wenn ich Probleme habe, wo finde ich Hilfe?
+Antwort:         Dann geh auf die Plugin-Webseite und stell dort deine Frage. Dort bekommst du die gesuchten Antworten.
+
 == Upgrade Notice ==
 
 
