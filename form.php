@@ -8,8 +8,8 @@
   echo '<p>Sonderzeichen und Umlaute m&uuml;ssen konvertiert sein. </p>';
   echo '<p></p><hr size="2">';
   echo '<h3>Example</h3>';
-  echo '<p><strong>from:</strong> &amp;copy; 2008-2011 Annubis Blog World - &lt;a href="http://www.annu.biz"&gt;Annubis Blog&lt;/a&gt;</p>';
-  echo '<p><strong>you would get this output:</strong> &copy; 2008 Annubis Blog World - <a href="http://www.annu.biz/">Annubis Blog</a></p><hr size="2">';
+  echo '<p><strong>from:</strong> &amp;copy; 2008-2011 Annubis Blog - &lt;a href="http://www.annu.biz"&gt;Annubis Blog&lt;/a&gt;</p>';
+  echo '<p><strong>you would get this output:</strong> &copy; 2008 Annubis Blog - <a href="http://www.annu.biz/">Annubis Blog</a></p><hr size="2">';
   echo '<h3>Optionen</h3>';
   if ($_REQUEST['submit']) {
    saveForm();
