@@ -9,6 +9,9 @@
 
 == Description ==
   Mit Feed Plus ist man in der Lage Werbung, Infos und andere wichtige Dinge direkt im Feed zu publizieren.
+  
+  [Created by Eric-Oliver Maechler](http://www.annu.biz "Annubis Blog")
+  
 
   
 == Installation ==
