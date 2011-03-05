@@ -23,7 +23,7 @@ WICHTIG: Dieses Plugin befindet sich noch in der Entwicklung. Obwohl das Plugin,
   Good news, this plugin is free for everyone! Since it's released under the GPL, you can use it free of charge on your personal. If you will using this Plugin on a commercial blog - its also free of charge but please send me an email (plugins@annu.biz) and inform me.
 
 == Screenshots ==
-  No Screenshots aviable yet
+ <img src="http://www.annu.biz/plugindev/feed_plus_sh1.png">
   
 == Frequently Asked Questions ==
   Frage:        Wie merke ich, ob es eine neue Version des Plugins gibt?
