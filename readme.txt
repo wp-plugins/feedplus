@@ -1,8 +1,8 @@
 === Feed Plus ===
-  Contributors: Eric-Oliver Maechler v/o Annubis
+  Contributors: Eric-Oliver M&auml;chler v/o Annubis
   Donate link: http://www.annu.biz
   Tags: feed, editor, banner, code
-  Version: 1.2.1
+  Version: 1.2.3
   Requires at least: 2.7+
   Tested up to: 3.1
   Stable tag: 1.2
@@ -10,7 +10,7 @@
 == Description ==
   Mit Feed Plus ist man in der Lage Werbung, Infos und andere wichtige Dinge direkt im Feed zu publizieren.
   
-  [Created by Eric-Oliver Maechler](http://www.annu.biz "Annubis Blog")
+  [Created by Eric-Oliver M&auml;chler](http://www.annu.biz "Annubis Blog")
   
 
   
