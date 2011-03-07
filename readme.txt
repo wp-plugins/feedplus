@@ -2,7 +2,7 @@
   Contributors: Eric-Oliver Maechler v/o Annubis
   Donate link: http://www.annu.biz
   Tags: feed, editor, banner, code
-  Version: 1.2
+  Version: 1.2.1
   Requires at least: 2.7+
   Tested up to: 3.1
   Stable tag: 1.2

@@ -1,4 +1,6 @@
 <?php
+$footer = "<p>Dies ist das Feed Plus Plugin - Programmiert von Eric-Oliver M&auml;chler - Weitere Informationen unter <a href='http://www.annu.biz/wordpress-plugin-feed-plus/' target='_blank'>Plugin Seite</a></p>";
+
  function adminForm() {
   echo '<div class="wrap">';
   echo '<h2>Feed Plus Options Seite</h2>';
@@ -86,8 +88,8 @@ function showForm() {
   echo '<input type="submit" style="height: 25px; width: 250px" name="hinweg" value="Reset">';
   echo '</form>';
   echo '<br /><br /><hr size="2">';
-  echo '<p>Dies ist das Feed Plus Plugin - Programmiert von Eric-Oliver M&auml;chler</p>';
-  echo 'Weitere Informationen unter <a href="http://www.annu.biz/wordpress-plugin-feed-plus/" target="_blank">Plugin Seite</a>';
+  echo $footer;
+
 
   echo '</div>';
  }
