@@ -1,5 +1,5 @@
 <?php
-$footer = "<p>Dies ist das Feed Plus Plugin - Programmiert von Eric-Oliver M&auml;chler - Weitere Informationen unter <a href='http://www.annu.biz/wordpress-plugin-feed-plus/' target='_blank'>Plugin Seite</a></p>";
+$footer = "<p>Dies ist das Feed Plus Plugin - Programmiert von Eric-Oliver M&auml;chler - Weitere Informationen unter <a href='http://www.maechler.me/2011/03/wordpress-plugin-feed-plus/' target='_blank'>Feed Plus - Plugin Seite</a></p>";
 
  function adminForm() {
   echo '<div class="wrap">';
@@ -10,8 +10,8 @@ $footer = "<p>Dies ist das Feed Plus Plugin - Programmiert von Eric-Oliver M&aum
   echo '<p>Sonderzeichen und Umlaute m&uuml;ssen konvertiert sein. </p>';
   echo '<p></p><hr size="2">';
   echo '<h3>Example</h3>';
-  echo '<p><strong>from:</strong> &amp;copy; 2008-2011 Annubis Blog - &lt;a href="http://www.annu.biz"&gt;Annubis Blog&lt;/a&gt;</p>';
-  echo '<p><strong>you would get this output:</strong> &copy; 2008-2011 Annubis Blog - <a href="http://www.annu.biz/">Annubis Blog</a></p><hr size="2">';
+  echo '<p><strong>from:</strong> &amp;copy; 2008-2011 Maechler.me - &lt;a href="http://www.maechler.me"&gt;Maechler.me&lt;/a&gt;</p>';
+  echo '<p><strong>you would get this output:</strong> &copy; 2008-2011 Mächler.me - <a href="http://www.maechler.me/">Maechler.me</a></p><hr size="2">';
   echo '<h3>Optionen</h3>';
   if ($_REQUEST['submit']) {
    saveForm();
@@ -88,9 +88,20 @@ function showForm() {
   echo '<input type="submit" style="height: 25px; width: 250px" name="hinweg" value="Reset">';
   echo '</form>';
   echo '<br /><br /><hr size="2">';
+  echo '<h3>Unterstütze mich und Klicke auf den <b>Gefällt mir</b>-Button:</h3>';
+  echo 'Hier findest du immer die neuesten Informationen über meine Plugins und aus der Welt von Social Media, Programmierung und Webdesign';
+  echo '<br /><br />';
+  echo '<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FMaechlerme%2F197548726945568&amp;width=600&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=true&amp;height=400" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:600px; height:450px;" allowTransparency="true"></iframe>';
+  echo '<h3>Unterstütze mich via Paypal</h3>';
+  echo 'Meine Plugins sind alle 100% Gratis, trotzdem würde ich mich über eine kleine Spende freuen damit ich mir hin und wieder ein Starbucks Kafi leisten kann - <b>Danke</b>';
+  echo '<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="4T6AUJC3QC9UJ">
+<input type="image" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/de_DE/CH/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
+<img alt="" border="0" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/de_DE/i/scr/pixel.gif" width="1" height="1">
+</form>';
+
   echo $footer;
-
-
   echo '</div>';
  }
 ?>

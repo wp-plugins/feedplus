@@ -2,7 +2,7 @@
   Contributors: Eric-Oliver M&auml;chler v/o Annubis
   Donate link: http://www.annu.biz
   Tags: feed, editor, banner, code
-  Version: 1.2.3
+  Version: 1.2.4
   Requires at least: 2.7+
   Tested up to: 3.1
   Stable tag: 1.2
@@ -24,8 +24,7 @@
   Good news, this plugin is free for everyone! Since it's released under the GPL, you can use it free of charge on your personal. If you will using this Plugin on a commercial blog - its also free of charge but please send me an email (plugins@annu.biz) and inform me.
 
 == Screenshots ==
- 1. Plugin Installation http://www.annu.biz/plugindev/feed_plus_sh1.png`
- 2. Feed Plus Administration Site http://www.annu.biz/plugindev/feed_plus_sh2.png
+Weitere Informationen über das Plugin findet man hier: www.maechler.me
   
   
   
