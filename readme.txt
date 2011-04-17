@@ -2,7 +2,7 @@
   Contributors: Eric-Oliver M&auml;chler v/o Annubis
   Donate link: http://www.annu.biz
   Tags: feed, editor, banner, code
-  Version: 1.2.4
+  Version: 1.2.6
   Requires at least: 2.7+
   Tested up to: 3.1
   Stable tag: 1.2
@@ -37,6 +37,10 @@ Weitere Informationen über das Plugin findet man hier: www.maechler.me
 == Upgrade Notice ==
 
 == Changelog ==
+  = v1.6 (04/17/2011) =
+  * upgrade to v1.6 a stable version
+  * debug of reset-button
+  * update social media section
   = v1.2 (02/05/2011) =
   * upgrade to v1.2 a stable version
   * correction of misspellings
