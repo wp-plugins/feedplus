@@ -103,7 +103,7 @@ function showForm() {
   <p>Dies ist das Feed Plus Plugin - Programmiert von Eric-Oliver M&auml;chler - Weitere Informationen unter <a href='http://www.maechler.me/2011/03/wordpress-plugin-feed-plus/' target='_blank'>Feed Plus - Plugin Seite</a></p>
   <h3>News</h3>
   <p>Das hier ist die direkte Facebook anbindung. HIer findest du immer die neuesten News über meine Plugins und ihre Updates</p>
- <iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FMaechlerme%2F197548726945568&amp;width=600&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=true&amp;height=400" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:600px; height:450px;" allowTransparency="true"></iframe>
+ <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FMaechlerme-WP-Plugins%2F174976859313776&amp;width=292&amp;height=590&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;appId=338371736250675" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:590px;" allowTransparency="true"></iframe>
   <p>Meine Plugins sind alle 100% Gratis, trotzdem würde ich mich über eine kleine Spende freuen damit ich mir hin und wieder ein Starbucks Kafi leisten kann - <b>Danke</b></p>
   <h3>Unterstütze mich</h3>
   <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
