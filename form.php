@@ -8,7 +8,7 @@
 <p>Mit diesem Plugin bist du in der Lage in deinem Feed vor oder nach jedem Beitrag einen Text einzufügen. Besonders geeignet für kleine Informationen oder Werbeanzeigen.</p>
 
 <h3>Gefällt dir dieses Plugin?</h3>
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FMaechlerme%2F197548726945568&amp;layout=box_count&amp;show_faces=false&amp;width=250&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:65px;" allowTransparency="true"></iframe>
+<iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2F01grad&amp;width&amp;height=290&amp;colorscheme=light&amp;show_faces=true&amp;header=true&amp;stream=false&amp;show_border=true&amp;appId=358544164207930" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:290px;" allowTransparency="true"></iframe>
 
 <h3>Anwendung</h3>
 <p>Gib hier deinen Text ein (Nur HTML - Kein PHP) Du kannst <b>vor</b> oder <b>nach</b> dem Beitrag einen Text eingeben.</p>
@@ -100,19 +100,12 @@ function showForm() {
   <hr />
   <div class="wrap">
   <h2>Infos</h2>
-  <p>Dies ist das Feed Plus Plugin - Programmiert von Eric-Oliver M&auml;chler - Weitere Informationen unter <a href='http://www.maechler.me/2011/03/wordpress-plugin-feed-plus/' target='_blank'>Feed Plus - Plugin Seite</a></p>
+  <p>Dies ist das Feed Plus Plugin - Programmiert von Eric-Oliver M&auml;chler von <a href="http://www.1grad.ch" target="_blank">1Grad</a></p>
   <h3>News</h3>
   <p>Das hier ist die direkte Facebook anbindung. HIer findest du immer die neuesten News über meine Plugins und ihre Updates</p>
  <iframe src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FMaechlerme-WP-Plugins%2F174976859313776&amp;width=292&amp;height=590&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;appId=338371736250675" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:292px; height:590px;" allowTransparency="true"></iframe>
   <p>Meine Plugins sind alle 100% Gratis, trotzdem würde ich mich über eine kleine Spende freuen damit ich mir hin und wieder ein Starbucks Kafi leisten kann - <b>Danke</b></p>
-  <h3>Unterstütze mich</h3>
-  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="4T6AUJC3QC9UJ">
-<input type="image" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/de_DE/CH/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="Jetzt einfach, schnell und sicher online bezahlen – mit PayPal.">
-<img alt="" border="0" src="https://www.paypalobjects.com/WEBSCR-640-20110306-1/de_DE/i/scr/pixel.gif" width="1" height="1">
-</form>
-  
+
   
   </div>
   <?php
