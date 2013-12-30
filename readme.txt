@@ -1,11 +1,17 @@
 === Feed Plus ===
-  Contributors: Eric-Oliver M&auml;chler v/o Annubis
-  Donate link: http://www.annu.biz
+  Contributors: Eric-Oliver M&auml;chler [Annubis](http://www.1grad.ch "1Grad") 
+  Donate link: http://www.1grad.ch
   Tags: feed, editor, banner, code
+<<<<<<< .mine
+  Version: 2.0
+=======
   Version: 1.2.6.1
+>>>>>>> .r830450
   Requires at least: 2.7+
   Tested up to: 3.1
   Stable tag: 1.2
+  License: GPLv2 or later
+  License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
   Mit Feed Plus ist man in der Lage Werbung, Infos und andere wichtige Dinge direkt im Feed zu publizieren.
@@ -24,7 +30,7 @@
   Good news, this plugin is free for everyone! Since it's released under the GPL, you can use it free of charge on your personal. If you will using this Plugin on a commercial blog - its also free of charge but please send me an email (plugins@annu.biz) and inform me.
 
 == Screenshots ==
-Weitere Informationen über das Plugin findet man hier: www.maechler.me
+No Screenshots aviable yet
   
   
   
@@ -37,6 +43,8 @@ Weitere Informationen über das Plugin findet man hier: www.maechler.me
 == Upgrade Notice ==
 
 == Changelog ==
+  = v2.0 (12/30/2013) =
+  * upgrade to v2.0 a stable version
   = v1.6 (04/17/2011) =
   * upgrade to v1.6 a stable version
   * debug of reset-button
