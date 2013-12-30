@@ -2,11 +2,7 @@
   Contributors: Eric-Oliver M&auml;chler [Annubis](http://www.1grad.ch "1Grad") 
   Donate link: http://www.1grad.ch
   Tags: feed, editor, banner, code
-<<<<<<< .mine
   Version: 2.0
-=======
-  Version: 1.2.6.1
->>>>>>> .r830450
   Requires at least: 2.7+
   Tested up to: 3.1
   Stable tag: 1.2
@@ -16,7 +12,7 @@
 == Description ==
   Mit Feed Plus ist man in der Lage Werbung, Infos und andere wichtige Dinge direkt im Feed zu publizieren.
   
-  [Created by Eric-Oliver M&auml;chler](http://www.annu.biz "Annubis Blog")
+  [Created by Eric-Oliver M&auml;chler](http://www.1grad.ch "www.1grad.ch")
   
 
   
